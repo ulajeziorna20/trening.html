@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+small {
+    color: lightcoral;
+}
+
+i {
+    text-shadow: 2px 2px 5px lightskyblue;
+    
+}
+
+body {
+    background: linear-gradient(to left, lightblue 0%, white 100%);
+}
+
+nav {
+    text-decoration: overline black;
+    line-height: 35px;
+    color: crimson;
+}
+
+a {
+    color: black;
+}
